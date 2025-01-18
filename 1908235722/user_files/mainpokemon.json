@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Turtwig",
+    "gender": "M",
+    "level": 8,
+    "id": 387,
+    "ability": "Overgrow",
+    "type": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 55,
+      "atk": 68,
+      "def": 64,
+      "spa": 45,
+      "spd": 55,
+      "spe": 31,
+      "xp": 11
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 2,
+      "def": 1,
+      "spa": 4,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 27,
+      "atk": 4,
+      "def": 18,
+      "spa": 25,
+      "spd": 12,
+      "spe": 11
+    },
+    "attacks": [
+      "withdraw",
+      "tackle"
+    ],
+    "base_experience": 64,
+    "current_hp": 28,
+    "growth_rate": "medium-slow",
+    "evos": [
+      "Grotle"
+    ]
+  }
+]

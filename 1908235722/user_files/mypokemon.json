@@ -1,0 +1,2520 @@
+[
+  {
+    "name": "Turtwig",
+    "gender": "M",
+    "level": 8,
+    "id": 387,
+    "ability": "Overgrow",
+    "type": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 55,
+      "atk": 68,
+      "def": 64,
+      "spa": 45,
+      "spd": 55,
+      "spe": 31,
+      "xp": 11
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 2,
+      "def": 1,
+      "spa": 4,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 27,
+      "atk": 4,
+      "def": 18,
+      "spa": 25,
+      "spd": 12,
+      "spe": 11
+    },
+    "attacks": [
+      "withdraw",
+      "tackle"
+    ],
+    "base_experience": 64,
+    "current_hp": 28,
+    "growth_rate": "medium-slow",
+    "evos": [
+      "Grotle"
+    ]
+  },
+  {
+    "name": "Bounsweet",
+    "nickname": "",
+    "level": 5,
+    "gender": "F",
+    "id": 761,
+    "ability": "Leaf Guard",
+    "type": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 42,
+      "atk": 30,
+      "def": 38,
+      "spa": 30,
+      "spd": 38,
+      "spe": 32,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 27,
+      "atk": 4,
+      "def": 18,
+      "spa": 25,
+      "spd": 12,
+      "spe": 11
+    },
+    "attacks": [
+      "playnice",
+      "splash"
+    ],
+    "base_experience": 42,
+    "current_hp": 21,
+    "growth_rate": "medium-slow",
+    "evos": []
+  },
+  {
+    "name": "Mareanie",
+    "nickname": "",
+    "level": 6,
+    "gender": "M",
+    "id": 747,
+    "ability": "Limber",
+    "type": [
+      "Poison",
+      "Water"
+    ],
+    "stats": {
+      "hp": 50,
+      "atk": 53,
+      "def": 62,
+      "spa": 43,
+      "spd": 52,
+      "spe": 45,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 26,
+      "atk": 28,
+      "def": 19,
+      "spa": 29,
+      "spd": 15,
+      "spe": 20
+    },
+    "attacks": [
+      "peck",
+      "poisonsting"
+    ],
+    "base_experience": 61,
+    "current_hp": 25,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Gligar",
+    "nickname": "",
+    "level": 6,
+    "gender": "M",
+    "id": 207,
+    "ability": "Hyper Cutter",
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "atk": 75,
+      "def": 105,
+      "spa": 35,
+      "spd": 65,
+      "spe": 85,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 3,
+      "atk": 1,
+      "def": 1,
+      "spa": 23,
+      "spd": 16,
+      "spe": 24
+    },
+    "attacks": [
+      "poisonsting",
+      "sandattack"
+    ],
+    "base_experience": 86,
+    "current_hp": 24,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Blacephalon",
+    "nickname": "",
+    "level": 5,
+    "gender": "N",
+    "id": 806,
+    "ability": "Beast Boost",
+    "type": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 53,
+      "atk": 127,
+      "def": 53,
+      "spa": 151,
+      "spd": 79,
+      "spe": 107,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 22,
+      "atk": 16,
+      "def": 21,
+      "spa": 13,
+      "spd": 6,
+      "spe": 1
+    },
+    "attacks": [
+      "astonish",
+      "firespin"
+    ],
+    "base_experience": 285,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Teddiursa",
+    "nickname": "",
+    "level": 6,
+    "gender": "F",
+    "id": 216,
+    "ability": "Quick Feet",
+    "type": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 60,
+      "atk": 80,
+      "def": 50,
+      "spa": 50,
+      "spd": 50,
+      "spe": 40,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 19,
+      "atk": 5,
+      "def": 5,
+      "spa": 11,
+      "spd": 7,
+      "spe": 30
+    },
+    "attacks": [
+      "babydolleyes",
+      "covet",
+      "leer",
+      "scratch"
+    ],
+    "base_experience": 66,
+    "current_hp": 25,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Wurmple",
+    "nickname": "",
+    "level": 4,
+    "gender": "F",
+    "id": 265,
+    "ability": "Shield Dust",
+    "type": [
+      "Bug"
+    ],
+    "stats": {
+      "hp": 45,
+      "atk": 45,
+      "def": 35,
+      "spa": 20,
+      "spd": 30,
+      "spe": 20,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 15,
+      "atk": 26,
+      "def": 32,
+      "spa": 21,
+      "spd": 10,
+      "spe": 24
+    },
+    "attacks": [
+      "stringshot",
+      "tackle"
+    ],
+    "base_experience": 56,
+    "current_hp": 18,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Lillipup",
+    "nickname": "",
+    "level": 6,
+    "gender": "F",
+    "id": 506,
+    "ability": "Pickup",
+    "type": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 45,
+      "atk": 60,
+      "def": 45,
+      "spa": 25,
+      "spd": 45,
+      "spe": 55,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 26,
+      "atk": 20,
+      "def": 23,
+      "spa": 5,
+      "spd": 18,
+      "spe": 30
+    },
+    "attacks": [
+      "leer",
+      "odorsleuth",
+      "tackle"
+    ],
+    "base_experience": 55,
+    "current_hp": 24,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Thundurus",
+    "nickname": "",
+    "level": 3,
+    "gender": "M",
+    "id": 642,
+    "ability": "Prankster",
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 79,
+      "atk": 115,
+      "def": 70,
+      "spa": 125,
+      "spd": 80,
+      "spe": 111,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 12,
+      "atk": 12,
+      "def": 12,
+      "spa": 4,
+      "spd": 3,
+      "spe": 27
+    },
+    "attacks": [
+      "astonish",
+      "thundershock"
+    ],
+    "base_experience": 290,
+    "current_hp": 18,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Buzzwole",
+    "nickname": "",
+    "level": 8,
+    "gender": "N",
+    "id": 794,
+    "ability": "Beast Boost",
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 107,
+      "atk": 139,
+      "def": 139,
+      "spa": 53,
+      "spd": 53,
+      "spe": 79,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 23,
+      "atk": 21,
+      "def": 16,
+      "spa": 13,
+      "spd": 23,
+      "spe": 25
+    },
+    "attacks": [
+      "cometpunch",
+      "icepunch",
+      "harden",
+      "thunderpunch"
+    ],
+    "base_experience": 285,
+    "current_hp": 38,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Lugia",
+    "nickname": "",
+    "level": 4,
+    "gender": "N",
+    "id": 249,
+    "ability": "Pressure",
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 106,
+      "atk": 90,
+      "def": 130,
+      "spa": 90,
+      "spd": 154,
+      "spe": 110,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 7,
+      "atk": 10,
+      "def": 8,
+      "spa": 18,
+      "spd": 11,
+      "spe": 2
+    },
+    "attacks": [
+      "weatherball",
+      "whirlwind"
+    ],
+    "base_experience": 340,
+    "current_hp": 23,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Yveltal",
+    "nickname": "",
+    "level": 2,
+    "gender": "N",
+    "id": 717,
+    "ability": "Dark Aura",
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 126,
+      "atk": 131,
+      "def": 95,
+      "spa": 131,
+      "spd": 98,
+      "spe": 99,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 32,
+      "atk": 8,
+      "def": 16,
+      "spa": 22,
+      "spd": 20,
+      "spe": 21
+    },
+    "attacks": [
+      "gust",
+      "razorwind"
+    ],
+    "base_experience": 340,
+    "current_hp": 18,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Rufflet",
+    "nickname": "",
+    "level": 3,
+    "gender": "M",
+    "id": 627,
+    "ability": "Keen Eye",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 70,
+      "atk": 83,
+      "def": 50,
+      "spa": 37,
+      "spd": 50,
+      "spe": 60,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 5,
+      "atk": 5,
+      "def": 13,
+      "spa": 7,
+      "spd": 22,
+      "spe": 9
+    },
+    "attacks": [
+      "leer",
+      "peck"
+    ],
+    "base_experience": 70,
+    "current_hp": 17,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Deoxys",
+    "nickname": "",
+    "level": 7,
+    "gender": "N",
+    "id": 386,
+    "ability": "Pressure",
+    "type": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 50,
+      "atk": 150,
+      "def": 50,
+      "spa": 150,
+      "spd": 50,
+      "spe": 150,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 27,
+      "atk": 21,
+      "def": 6,
+      "spa": 22,
+      "spd": 29,
+      "spe": 19
+    },
+    "attacks": [
+      "leer",
+      "wrap"
+    ],
+    "base_experience": 270,
+    "current_hp": 27,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Furfrou",
+    "nickname": "",
+    "level": 5,
+    "gender": "F",
+    "id": 676,
+    "ability": "Fur Coat",
+    "type": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 60,
+      "spa": 65,
+      "spd": 90,
+      "spe": 102,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 7,
+      "atk": 20,
+      "def": 22,
+      "spa": 17,
+      "spd": 17,
+      "spe": 6
+    },
+    "attacks": [
+      "growl",
+      "sandattack",
+      "tackle"
+    ],
+    "base_experience": 165,
+    "current_hp": 23,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Raikou",
+    "nickname": "",
+    "level": 7,
+    "gender": "N",
+    "id": 243,
+    "ability": "Pressure",
+    "type": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 90,
+      "atk": 85,
+      "def": 75,
+      "spa": 115,
+      "spd": 100,
+      "spe": 115,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 18,
+      "atk": 18,
+      "def": 31,
+      "spa": 31,
+      "spd": 24,
+      "spe": 3
+    },
+    "attacks": [
+      "charge",
+      "extremespeed",
+      "leer"
+    ],
+    "base_experience": 290,
+    "current_hp": 32,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Nihilego",
+    "nickname": "",
+    "level": 4,
+    "gender": "N",
+    "id": 793,
+    "ability": "Beast Boost",
+    "type": [
+      "Rock",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 109,
+      "atk": 53,
+      "def": 47,
+      "spa": 127,
+      "spd": 131,
+      "spe": 103,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 18,
+      "atk": 16,
+      "def": 2,
+      "spa": 30,
+      "spd": 32,
+      "spe": 13
+    },
+    "attacks": [
+      "constrict",
+      "pound",
+      "wrap"
+    ],
+    "base_experience": 285,
+    "current_hp": 24,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Pheromosa",
+    "nickname": "",
+    "level": 5,
+    "gender": "N",
+    "id": 795,
+    "ability": "Beast Boost",
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 71,
+      "atk": 137,
+      "def": 37,
+      "spa": 137,
+      "spd": 37,
+      "spe": 151,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 11,
+      "atk": 13,
+      "def": 3,
+      "spa": 17,
+      "spd": 2,
+      "spe": 28
+    },
+    "attacks": [
+      "leer",
+      "rapidspin"
+    ],
+    "base_experience": 285,
+    "current_hp": 23,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Volbeat",
+    "nickname": "",
+    "level": 7,
+    "gender": "M",
+    "id": 313,
+    "ability": "Swarm",
+    "type": [
+      "Bug"
+    ],
+    "stats": {
+      "hp": 65,
+      "atk": 73,
+      "def": 75,
+      "spa": 47,
+      "spd": 85,
+      "spe": 85,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 1,
+      "atk": 17,
+      "def": 29,
+      "spa": 23,
+      "spd": 16,
+      "spe": 4
+    },
+    "attacks": [
+      "flash",
+      "tackle"
+    ],
+    "base_experience": 151,
+    "current_hp": 26,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Cleffa",
+    "nickname": "",
+    "level": 5,
+    "gender": "F",
+    "id": 173,
+    "ability": "Magic Guard",
+    "type": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "atk": 25,
+      "def": 28,
+      "spa": 45,
+      "spd": 55,
+      "spe": 15,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 27,
+      "atk": 9,
+      "def": 21,
+      "spa": 13,
+      "spd": 10,
+      "spe": 23
+    },
+    "attacks": [
+      "pound",
+      "splash"
+    ],
+    "base_experience": 44,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Timburr",
+    "nickname": "",
+    "level": 5,
+    "gender": "M",
+    "id": 532,
+    "ability": "Sheer Force",
+    "type": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 55,
+      "spa": 25,
+      "spd": 35,
+      "spe": 35,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 28,
+      "atk": 15,
+      "def": 25,
+      "spa": 19,
+      "spd": 20,
+      "spe": 20
+    },
+    "attacks": [
+      "leer",
+      "pound"
+    ],
+    "base_experience": 61,
+    "current_hp": 25,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Scyther",
+    "nickname": "",
+    "level": 6,
+    "gender": "F",
+    "id": 123,
+    "ability": "Swarm",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 80,
+      "spa": 55,
+      "spd": 80,
+      "spe": 105,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 3,
+      "atk": 2,
+      "def": 19,
+      "spa": 16,
+      "spd": 17,
+      "spe": 23
+    },
+    "attacks": [
+      "leer",
+      "quickattack",
+      "vacuumwave"
+    ],
+    "base_experience": 100,
+    "current_hp": 24,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Kartana",
+    "nickname": "",
+    "level": 5,
+    "gender": "N",
+    "id": 798,
+    "ability": "Beast Boost",
+    "type": [
+      "Grass",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 59,
+      "atk": 181,
+      "def": 131,
+      "spa": 59,
+      "spd": 31,
+      "spe": 109,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 5,
+      "atk": 10,
+      "def": 30,
+      "spa": 25,
+      "spd": 14,
+      "spe": 4
+    },
+    "attacks": [
+      "furycutter",
+      "vacuumwave"
+    ],
+    "base_experience": 285,
+    "current_hp": 21,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Pichu",
+    "nickname": "",
+    "level": 5,
+    "gender": "M",
+    "id": 172,
+    "ability": "Static",
+    "type": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 20,
+      "atk": 40,
+      "def": 15,
+      "spa": 35,
+      "spd": 35,
+      "spe": 60,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 4,
+      "atk": 26,
+      "def": 5,
+      "spa": 18,
+      "spd": 17,
+      "spe": 22
+    },
+    "attacks": [
+      "playnice",
+      "thundershock"
+    ],
+    "base_experience": 41,
+    "current_hp": 17,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Celesteela",
+    "nickname": "",
+    "level": 2,
+    "gender": "N",
+    "id": 797,
+    "ability": "Beast Boost",
+    "type": [
+      "Steel",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 97,
+      "atk": 101,
+      "def": 103,
+      "spa": 107,
+      "spd": 101,
+      "spe": 61,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 27,
+      "atk": 16,
+      "def": 21,
+      "spa": 3,
+      "spd": 30,
+      "spe": 3
+    },
+    "attacks": [
+      "absorb",
+      "airslash",
+      "tackle"
+    ],
+    "base_experience": 285,
+    "current_hp": 16,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Emolga",
+    "nickname": "",
+    "level": 8,
+    "gender": "M",
+    "id": 587,
+    "ability": "Static",
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 55,
+      "atk": 75,
+      "def": 60,
+      "spa": 75,
+      "spd": 60,
+      "spe": 103,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 14,
+      "atk": 15,
+      "def": 24,
+      "spa": 6,
+      "spd": 15,
+      "spe": 17
+    },
+    "attacks": [
+      "tailwhip"
+    ],
+    "base_experience": 150,
+    "current_hp": 29,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Igglybuff",
+    "nickname": "",
+    "level": 5,
+    "gender": "F",
+    "id": 174,
+    "ability": "Competitive",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 90,
+      "atk": 30,
+      "def": 15,
+      "spa": 40,
+      "spd": 20,
+      "spe": 15,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 5,
+      "atk": 1,
+      "def": 10,
+      "spa": 16,
+      "spd": 16,
+      "spe": 17
+    },
+    "attacks": [
+      "defensecurl",
+      "sing"
+    ],
+    "base_experience": 42,
+    "current_hp": 24,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Diancie",
+    "nickname": "",
+    "level": 6,
+    "gender": "N",
+    "id": 719,
+    "ability": "Clear Body",
+    "type": [
+      "Rock",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "atk": 100,
+      "def": 150,
+      "spa": 100,
+      "spd": 150,
+      "spe": 50,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 6,
+      "atk": 30,
+      "def": 19,
+      "spa": 16,
+      "spd": 10,
+      "spe": 15
+    },
+    "attacks": [
+      "harden",
+      "rockthrow",
+      "tackle"
+    ],
+    "base_experience": 300,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Klink",
+    "nickname": "",
+    "level": 5,
+    "gender": "N",
+    "id": 599,
+    "ability": "Plus",
+    "type": [
+      "Steel"
+    ],
+    "stats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 70,
+      "spa": 45,
+      "spd": 60,
+      "spe": 30,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 23,
+      "atk": 11,
+      "def": 11,
+      "spa": 31,
+      "spd": 17,
+      "spe": 25
+    },
+    "attacks": [
+      "visegrip"
+    ],
+    "base_experience": 60,
+    "current_hp": 21,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Riolu",
+    "nickname": "",
+    "level": 6,
+    "gender": "M",
+    "id": 447,
+    "ability": "Steadfast",
+    "type": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 40,
+      "atk": 70,
+      "def": 40,
+      "spa": 35,
+      "spd": 40,
+      "spe": 60,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 19,
+      "atk": 5,
+      "def": 3,
+      "spa": 12,
+      "spd": 31,
+      "spe": 22
+    },
+    "attacks": [
+      "endure",
+      "foresight",
+      "quickattack"
+    ],
+    "base_experience": 57,
+    "current_hp": 23,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Victini",
+    "nickname": "",
+    "level": 3,
+    "gender": "N",
+    "id": 494,
+    "ability": "Victory Star",
+    "type": [
+      "Psychic",
+      "Fire"
+    ],
+    "stats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 13,
+      "atk": 26,
+      "def": 22,
+      "spa": 25,
+      "spd": 21,
+      "spe": 9
+    },
+    "attacks": [
+      "confusion",
+      "focusenergy",
+      "quickattack",
+      "vcreate"
+    ],
+    "base_experience": 300,
+    "current_hp": 19,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Bruxish",
+    "nickname": "",
+    "level": 4,
+    "gender": "M",
+    "id": 779,
+    "ability": "Strong Jaw",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 68,
+      "atk": 105,
+      "def": 70,
+      "spa": 70,
+      "spd": 70,
+      "spe": 92,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 25,
+      "atk": 14,
+      "def": 4,
+      "spa": 24,
+      "spd": 10,
+      "spe": 6
+    },
+    "attacks": [
+      "astonish",
+      "watergun"
+    ],
+    "base_experience": 166,
+    "current_hp": 21,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Guzzlord",
+    "nickname": "",
+    "level": 4,
+    "gender": "N",
+    "id": 799,
+    "ability": "Beast Boost",
+    "type": [
+      "Dark",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 223,
+      "atk": 101,
+      "def": 53,
+      "spa": 97,
+      "spd": 53,
+      "spe": 43,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 19,
+      "atk": 12,
+      "def": 10,
+      "spa": 28,
+      "spd": 24,
+      "spe": 5
+    },
+    "attacks": [
+      "bite",
+      "dragonrage"
+    ],
+    "base_experience": 285,
+    "current_hp": 33,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Stonjourner",
+    "nickname": "",
+    "level": 6,
+    "gender": "M",
+    "id": 874,
+    "ability": "Power Spot",
+    "type": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 100,
+      "atk": 125,
+      "def": 135,
+      "spa": 20,
+      "spd": 20,
+      "spe": 70,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 19,
+      "atk": 27,
+      "def": 16,
+      "spa": 19,
+      "spd": 30,
+      "spe": 9
+    },
+    "attacks": [
+      "block",
+      "rockpolish",
+      "rockthrow"
+    ],
+    "base_experience": 165,
+    "current_hp": 30,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Munna",
+    "nickname": "",
+    "level": 5,
+    "gender": "F",
+    "id": 517,
+    "ability": "Forewarn",
+    "type": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 76,
+      "atk": 25,
+      "def": 45,
+      "spa": 67,
+      "spd": 55,
+      "spe": 24,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 1,
+      "atk": 15,
+      "def": 18,
+      "spa": 11,
+      "spd": 28,
+      "spe": 16
+    },
+    "attacks": [
+      "defensecurl",
+      "luckychant",
+      "psywave"
+    ],
+    "base_experience": 58,
+    "current_hp": 22,
+    "growth_rate": "fast",
+    "evos": []
+  },
+  {
+    "name": "Yamask",
+    "nickname": "",
+    "level": 3,
+    "gender": "M",
+    "id": 562,
+    "ability": "Mummy",
+    "type": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 38,
+      "atk": 30,
+      "def": 85,
+      "spa": 55,
+      "spd": 65,
+      "spe": 30,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 24,
+      "atk": 1,
+      "def": 17,
+      "spa": 22,
+      "spd": 20,
+      "spe": 24
+    },
+    "attacks": [
+      "astonish",
+      "protect"
+    ],
+    "base_experience": 61,
+    "current_hp": 16,
+    "growth_rate": "fast",
+    "evos": []
+  },
+  {
+    "name": "Chatot",
+    "nickname": "",
+    "level": 4,
+    "gender": "F",
+    "id": 441,
+    "ability": "Tangled Feet",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 76,
+      "atk": 65,
+      "def": 45,
+      "spa": 92,
+      "spd": 42,
+      "spe": 91,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 25,
+      "atk": 3,
+      "def": 23,
+      "spa": 28,
+      "spd": 15,
+      "spe": 30
+    },
+    "attacks": [
+      "confide",
+      "peck"
+    ],
+    "base_experience": 144,
+    "current_hp": 22,
+    "growth_rate": "fast",
+    "evos": []
+  },
+  {
+    "name": "Cherubi",
+    "nickname": "",
+    "level": 6,
+    "gender": "F",
+    "id": 420,
+    "ability": "Chlorophyll",
+    "type": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 45,
+      "atk": 35,
+      "def": 45,
+      "spa": 62,
+      "spd": 53,
+      "spe": 35,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 7,
+      "atk": 26,
+      "def": 18,
+      "spa": 26,
+      "spd": 29,
+      "spe": 10
+    },
+    "attacks": [
+      "leafage",
+      "morningsun",
+      "tackle"
+    ],
+    "base_experience": 55,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Fomantis",
+    "nickname": "",
+    "level": 6,
+    "gender": "F",
+    "id": 753,
+    "ability": "Leaf Guard",
+    "type": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 35,
+      "spa": 50,
+      "spd": 35,
+      "spe": 35,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 13,
+      "atk": 23,
+      "def": 13,
+      "spa": 8,
+      "spd": 4,
+      "spe": 11
+    },
+    "attacks": [
+      "furycutter",
+      "leafage"
+    ],
+    "base_experience": 50,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Ledyba",
+    "nickname": "",
+    "level": 6,
+    "gender": "F",
+    "id": 165,
+    "ability": "Early Bird",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "atk": 20,
+      "def": 30,
+      "spa": 40,
+      "spd": 80,
+      "spe": 55,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 15,
+      "atk": 26,
+      "def": 12,
+      "spa": 29,
+      "spd": 15,
+      "spe": 21
+    },
+    "attacks": [
+      "tackle"
+    ],
+    "base_experience": 53,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Dewpider",
+    "nickname": "",
+    "level": 5,
+    "gender": "F",
+    "id": 751,
+    "ability": "Water Bubble",
+    "type": [
+      "Water",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 38,
+      "atk": 40,
+      "def": 52,
+      "spa": 40,
+      "spd": 72,
+      "spe": 27,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 8,
+      "atk": 32,
+      "def": 1,
+      "spa": 2,
+      "spd": 19,
+      "spe": 23
+    },
+    "attacks": [
+      "bubble",
+      "infestation",
+      "watergun",
+      "watersport"
+    ],
+    "base_experience": 54,
+    "current_hp": 19,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Tornadus",
+    "nickname": "",
+    "level": 7,
+    "gender": "M",
+    "id": 641,
+    "ability": "Prankster",
+    "type": [
+      "Flying"
+    ],
+    "stats": {
+      "hp": 79,
+      "atk": 115,
+      "def": 70,
+      "spa": 125,
+      "spd": 80,
+      "spe": 111,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 14,
+      "atk": 7,
+      "def": 25,
+      "spa": 32,
+      "spd": 6,
+      "spe": 7
+    },
+    "attacks": [
+      "astonish",
+      "gust",
+      "leer"
+    ],
+    "base_experience": 290,
+    "current_hp": 30,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Virizion",
+    "nickname": "",
+    "level": 7,
+    "gender": "N",
+    "id": 640,
+    "ability": "Justified",
+    "type": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 91,
+      "atk": 90,
+      "def": 72,
+      "spa": 90,
+      "spd": 129,
+      "spe": 108,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 24,
+      "atk": 21,
+      "def": 20,
+      "spa": 15,
+      "spd": 13,
+      "spe": 18
+    },
+    "attacks": [
+      "leer",
+      "quickattack"
+    ],
+    "base_experience": 290,
+    "current_hp": 33,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Binacle",
+    "nickname": "",
+    "level": 7,
+    "gender": "F",
+    "id": 688,
+    "ability": "Tough Claws",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "stats": {
+      "hp": 42,
+      "atk": 52,
+      "def": 67,
+      "spa": 39,
+      "spd": 56,
+      "spe": 50,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 11,
+      "atk": 31,
+      "def": 17,
+      "spa": 2,
+      "spd": 20,
+      "spe": 10
+    },
+    "attacks": [
+      "sandattack",
+      "scratch",
+      "withdraw"
+    ],
+    "base_experience": 61,
+    "current_hp": 24,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Wooloo",
+    "nickname": "",
+    "level": 6,
+    "gender": "M",
+    "id": 831,
+    "ability": "Run Away",
+    "type": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 42,
+      "atk": 40,
+      "def": 55,
+      "spa": 40,
+      "spd": 45,
+      "spe": 48,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 4,
+      "atk": 7,
+      "def": 5,
+      "spa": 19,
+      "spd": 28,
+      "spe": 22
+    },
+    "attacks": [
+      "defensecurl",
+      "growl",
+      "tackle"
+    ],
+    "base_experience": 122,
+    "current_hp": 21,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Makuhita",
+    "nickname": "",
+    "level": 7,
+    "gender": "M",
+    "id": 296,
+    "ability": "Thick Fat",
+    "type": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 72,
+      "atk": 60,
+      "def": 30,
+      "spa": 20,
+      "spd": 30,
+      "spe": 25,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 31,
+      "atk": 18,
+      "def": 16,
+      "spa": 7,
+      "spd": 7,
+      "spe": 9
+    },
+    "attacks": [
+      "focusenergy",
+      "sandattack",
+      "tackle"
+    ],
+    "base_experience": 47,
+    "current_hp": 31,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Mienfoo",
+    "nickname": "",
+    "level": 9,
+    "gender": "F",
+    "id": 619,
+    "ability": "Inner Focus",
+    "type": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 45,
+      "atk": 85,
+      "def": 50,
+      "spa": 55,
+      "spd": 50,
+      "spe": 65,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 24,
+      "atk": 13,
+      "def": 31,
+      "spa": 7,
+      "spd": 20,
+      "spe": 30
+    },
+    "attacks": [
+      "detect",
+      "meditate",
+      "pound"
+    ],
+    "base_experience": 70,
+    "current_hp": 31,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Porygon",
+    "nickname": "",
+    "level": 6,
+    "gender": "N",
+    "id": 137,
+    "ability": "Trace",
+    "type": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 70,
+      "spa": 85,
+      "spd": 75,
+      "spe": 40,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 12,
+      "atk": 21,
+      "def": 27,
+      "spa": 28,
+      "spd": 8,
+      "spe": 6
+    },
+    "attacks": [
+      "conversion",
+      "tackle"
+    ],
+    "base_experience": 79,
+    "current_hp": 25,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Wishiwashi",
+    "nickname": "",
+    "level": 9,
+    "gender": "M",
+    "id": 746,
+    "ability": "Schooling",
+    "type": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 45,
+      "atk": 20,
+      "def": 20,
+      "spa": 25,
+      "spd": 25,
+      "spe": 40,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 24,
+      "atk": 1,
+      "def": 23,
+      "spa": 32,
+      "spd": 8,
+      "spe": 6
+    },
+    "attacks": [
+      "feintattack",
+      "growl",
+      "helpinghand",
+      "watergun"
+    ],
+    "base_experience": 61,
+    "current_hp": 31,
+    "growth_rate": "fast",
+    "evos": []
+  },
+  {
+    "name": "Joltik",
+    "nickname": "",
+    "level": 6,
+    "gender": "M",
+    "id": 595,
+    "ability": "Compound Eyes",
+    "type": [
+      "Bug",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 50,
+      "atk": 47,
+      "def": 50,
+      "spa": 57,
+      "spd": 50,
+      "spe": 65,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 22,
+      "atk": 28,
+      "def": 14,
+      "spa": 10,
+      "spd": 8,
+      "spe": 24
+    },
+    "attacks": [
+      "absorb",
+      "leechlife",
+      "spiderweb"
+    ],
+    "base_experience": 64,
+    "current_hp": 24,
+    "growth_rate": "fast",
+    "evos": []
+  },
+  {
+    "name": "Togedemaru",
+    "nickname": "",
+    "level": 5,
+    "gender": "M",
+    "id": 777,
+    "ability": "Iron Barbs",
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 65,
+      "atk": 98,
+      "def": 63,
+      "spa": 40,
+      "spd": 73,
+      "spe": 96,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 7,
+      "atk": 23,
+      "def": 2,
+      "spa": 12,
+      "spd": 10,
+      "spe": 31
+    },
+    "attacks": [
+      "defensecurl",
+      "tackle"
+    ],
+    "base_experience": 152,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Chinchou",
+    "nickname": "",
+    "level": 8,
+    "gender": "M",
+    "id": 170,
+    "ability": "Illuminate",
+    "type": [
+      "Water",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 75,
+      "atk": 38,
+      "def": 38,
+      "spa": 56,
+      "spd": 56,
+      "spe": 67,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 1,
+      "atk": 26,
+      "def": 15,
+      "spa": 20,
+      "spd": 18,
+      "spe": 4
+    },
+    "attacks": [
+      "bubble",
+      "supersonic",
+      "thunderwave"
+    ],
+    "base_experience": 66,
+    "current_hp": 30,
+    "growth_rate": "slow",
+    "evos": []
+  },
+  {
+    "name": "Electrike",
+    "nickname": "",
+    "level": 8,
+    "gender": "M",
+    "id": 309,
+    "ability": "Static",
+    "type": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spa": 65,
+      "spd": 40,
+      "spe": 65,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 14,
+      "atk": 26,
+      "def": 29,
+      "spa": 1,
+      "spd": 22,
+      "spe": 6
+    },
+    "attacks": [
+      "tackle",
+      "thunderwave"
+    ],
+    "base_experience": 59,
+    "current_hp": 26,
+    "growth_rate": "slow",
+    "evos": []
+  },
+  {
+    "name": "Remoraid",
+    "nickname": "",
+    "level": 7,
+    "gender": "F",
+    "id": 223,
+    "ability": "Sniper",
+    "type": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 35,
+      "atk": 65,
+      "def": 35,
+      "spa": 65,
+      "spd": 35,
+      "spe": 65,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 3,
+      "atk": 9,
+      "def": 20,
+      "spa": 27,
+      "spd": 11,
+      "spe": 10
+    },
+    "attacks": [
+      "helpinghand",
+      "watergun"
+    ],
+    "base_experience": 60,
+    "current_hp": 22,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Bidoof",
+    "nickname": "",
+    "level": 8,
+    "gender": "M",
+    "id": 399,
+    "ability": "Simple",
+    "type": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 59,
+      "atk": 45,
+      "def": 40,
+      "spa": 35,
+      "spd": 40,
+      "spe": 31,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 12,
+      "atk": 31,
+      "def": 23,
+      "spa": 29,
+      "spd": 18,
+      "spe": 26
+    },
+    "attacks": [
+      "growl",
+      "tackle"
+    ],
+    "base_experience": 50,
+    "current_hp": 29,
+    "growth_rate": "medium",
+    "evos": []
+  },
+  {
+    "name": "Pidgey",
+    "nickname": "",
+    "level": 8,
+    "gender": "F",
+    "id": 16,
+    "ability": "Keen Eye",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spa": 35,
+      "spd": 35,
+      "spe": 56,
+      "xp": 0
+    },
+    "ev": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 0
+    },
+    "iv": {
+      "hp": 25,
+      "atk": 6,
+      "def": 11,
+      "spa": 3,
+      "spd": 2,
+      "spe": 10
+    },
+    "attacks": [
+      "sandattack",
+      "tackle"
+    ],
+    "base_experience": 50,
+    "current_hp": 28,
+    "growth_rate": "medium",
+    "evos": []
+  }
+]
